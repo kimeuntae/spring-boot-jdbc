@@ -28,7 +28,7 @@ subprojects {
         mavenCentral()
     }
    
-    /*inclue 컨텍스트 있어야한다.*/
+    /*inclue 컨텍스트 있어야한다.*/ 
     
     task initSourceFolders {
     	
